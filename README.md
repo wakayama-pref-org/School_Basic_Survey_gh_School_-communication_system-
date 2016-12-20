@@ -1,4 +1,4 @@
-# School_Basic_Survey_gh_School_-communication_system-
+# school_basic_survey_gh_school_-communication_system-
 　【和歌山県　学校基本調査 です。】
 ◆はじめに
 学校基本調査は、文部科学省所管により昭和23年以来毎年全国一斉に実施しているものです。 
